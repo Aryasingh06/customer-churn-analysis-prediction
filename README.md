@@ -83,19 +83,19 @@ New features were created to improve analysis:
 ## Project Screenshots
 
 ###  Churn Distribution
-(../screenshots/churn_distribution.png)
+(screenshots/churn_distribution.png)
 
 ### Contract Type vs Churn
-("../screenshots/contact_type vs churn.png")
+(screenshots/contact_type vs churn.png)
 
 ### Monthly Charges vs Churn
-("../screenshots/monthlycharges vs churn.png")
+(screenshots/monthlycharges vs churn.png)
 
 ### customer_type vs churn
-("../screenshots/customer_type vs churn.png")
+(screenshots/customer_type vs churn.png)
 
 ### Correlation Heatmap
-("../screenshots/correlation heatmap.png")
+(screenshots/correlation heatmap.png)
 
 
 ## Future Improvements
