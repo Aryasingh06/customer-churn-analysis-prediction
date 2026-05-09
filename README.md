@@ -85,11 +85,11 @@ New features were created to improve analysis:
 ###  Churn Distribution
 ![Churn Distribution](screenshots/churn_distribution.png)
 
-### Contract Type vs Churn
-![Contract Type vs Churn](screenshots/contact_type vs churn.png)
+### Contract_Type vs Churn
+![Contract_Type vs Churn](screenshots/contact_type vs churn.png)
 
-### Monthly Charges vs Churn
-![Monthly Charges vs Churn](screenshots/monthlycharges vs churn.png)
+### MonthlyCharges vs Churn
+![MonthlyCharges vs Churn](screenshots/monthlycharges vs churn.png)
 
 ### customer_type vs churn
 ![ customer_type vs churn](screenshots/customer_type vs churn.png)
