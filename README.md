@@ -86,16 +86,16 @@ New features were created to improve analysis:
 ![Churn Distribution](screenshots/churn_distribution.png)
 
 ### Contract_Type vs Churn
-![Contract_Type vs Churn](screenshots/contact_type vs churn.png)
+![Contract  vs Churn](screenshots/contact_type_vs_churn.png)
 
 ### MonthlyCharges vs Churn
-![MonthlyCharges vs Churn](screenshots/monthlycharges vs churn.png)
+![MonthlyCharges vs Churn](screenshots/monthlycharges_vs_churn.png)
 
 ### customer_type vs churn
-![ customer_type vs churn](screenshots/customer_type vs churn.png)
+![customertype vs churn](screenshots/customer_type_vs_churn.png)
 
 ### Correlation Heatmap
-![Correlation Heatmap](screenshots/correlation heatmap.png)
+![Heatmap](screenshots/correlation_heatmap.png)
 
 
 ## Future Improvements
