@@ -81,7 +81,7 @@ New features were created to improve analysis:
 ## Project Screenshots
 
 ###  Churn Distribution
-![churn_Distribution] (screenshots/churn_distribution.png)
+![churn_Distribution](screenshots/churn_distribution.png)
 
 ### Contract_Type vs Churn
 ![Contract  vs Churn](screenshots/contact_type_vs_churn.png)
