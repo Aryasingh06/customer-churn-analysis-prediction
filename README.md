@@ -101,23 +101,7 @@ The model achieved strong performance in identifying customer churn behavior and
 - Improve onboarding programs for new customers.
 - Review pricing strategies for high-charge customers.
 - Develop retention campaigns for high-risk customer segments.
-- Improve support services to strengthen customer satisfaction.
-
-##  Project Visualizations
-### Churn Distribution
-![screenshots](screenshots/churndistribution.png)
-
-### Contract Type vs Churn
-![screenshots](screenshots/contracttype.png)
-
-### Monthly Charges vs Churn
-![screenshots](screenshots/monthlycharges.png)
-
-### Customer Type vs Churn
-![screenshots](screenshots/customertype.png)
-
-### Correlation Heatmap
-![screenshots](screenshots/correlationheatmap.png)
+- Improve support services to strengthen customer satisfaction
 
 ##  Future Improvements
 - Random Forest Classifier
