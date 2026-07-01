@@ -105,19 +105,19 @@ The model achieved strong performance in identifying customer churn behavior and
 
 ##  Project Visualizations
 ### Churn Distribution
-![churndistribution](screenshots/churndistribution.png)
+![screenshots](screenshots/churndistribution.png)
 
 ### Contract Type vs Churn
-![contractType_vs_Churn](screenshots/contacttype.png)
+![screenshots](screenshots/contracttype.png)
 
 ### Monthly Charges vs Churn
-![monthlycharges vs churn](screenshots/monthlycharges.png)
+![screenshots](screenshots/monthlycharges.png)
 
 ### Customer Type vs Churn
-![customer_type vs churn](screenshots/customertype.png)
+![screenshots](screenshots/customertype.png)
 
 ### Correlation Heatmap
-![correlation heatmap](screenshots/correlationheatmap.png)
+![screenshots](screenshots/correlationheatmap.png)
 
 ##  Future Improvements
 - Random Forest Classifier
